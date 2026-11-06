@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "erlangdomain",
+  "versions": [
+    {
+      "commit": "ae7f7a219575b3f3069a8bdf9bccc69c5b079923",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:47:57.273223+00:00"
+    }
+  ]
+}
